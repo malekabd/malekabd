@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng. Malek Sulaiman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mechatronices engineer and Full Stack developer from Palestine </h3>
 
 - 🔭 I’m currently working on [Training center](https://trainingcenter.onrender.com)
 
